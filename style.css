@@ -1,0 +1,12 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.delete {
+    display: none;
+}
+
+.strike {
+    text-decoration: line-through;
+}
